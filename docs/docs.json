@@ -1016,6 +1016,7 @@
                 "group": "Fundamentals",
                 "pages": [
                   "concepts/architecture",
+                  "concepts/core-architecture",
                   "concepts/agent",
                   "concepts/agent-loop",
                   "concepts/system-prompt",

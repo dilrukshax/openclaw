@@ -9,6 +9,7 @@ title: "Gateway Architecture"
 
 ## Overview
 
+- For a system-level map that includes routing, queueing, agent runtime, and plugin boundaries, see [Core Architecture](/concepts/core-architecture).
 - A single long‑lived **Gateway** owns all messaging surfaces (WhatsApp via
   Baileys, Telegram via grammY, Slack, Discord, Signal, iMessage, WebChat).
 - Control-plane clients (macOS app, CLI, web UI, automations) connect to the
